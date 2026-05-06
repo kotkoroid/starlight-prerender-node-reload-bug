@@ -9,10 +9,10 @@ extends HTMLElement`). The dev server stays in this state until restarted.
 
 ## Versions
 
-- `astro@6.1.7`
-- `@astrojs/starlight@0.38.3`
-- `@astrojs/cloudflare@13.1.10`
-- `@astrojs/mdx@5.0.3`
+- `astro@6.2.2`
+- `@astrojs/starlight@0.38.5`
+- `@astrojs/cloudflare@13.3.1`
+- `@astrojs/mdx@5.0.4`
 - `vite@7.3.1` (transitive)
 - Node 22.14, macOS, run with `bun@1.3.13` (also reproduces with `npm`/`pnpm`)
 

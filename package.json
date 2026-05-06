@@ -8,10 +8,10 @@
     "build": "astro build"
   },
   "devDependencies": {
-    "@astrojs/cloudflare": "13.1.10",
-    "@astrojs/mdx": "5.0.3",
-    "@astrojs/starlight": "0.38.3",
-    "astro": "6.1.7",
-    "sharp": "0.34.2"
+    "@astrojs/cloudflare": "13.3.1",
+    "@astrojs/mdx": "5.0.4",
+    "@astrojs/starlight": "0.38.5",
+    "astro": "6.2.2",
+    "sharp": "0.34.5"
   }
 }
